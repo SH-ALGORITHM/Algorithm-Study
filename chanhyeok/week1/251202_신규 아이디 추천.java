@@ -47,7 +47,7 @@ class Solution {
                 new_id += s;
             }
         }
-        System.out.println("6: " + new_id);
+        System.out.println("7: " + new_id);
 
         return new_id;
     }

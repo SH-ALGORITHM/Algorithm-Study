@@ -1,38 +1,19 @@
+import java.util.*;
+
 class Solution {
     public int solution(String s) {
+        Map<String, Integer> map = new HashMap<>();
+        String[] arr = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
 
-        if(s.contains("zero")){
-            s = s.replaceAll("zero", "0");
-        }
-        if(s.contains("one")){
-            s = s.replaceAll("one", "1");
-        }
-        if(s.contains("two")){
-            s = s.replaceAll("two", "2");
-        }
-        if(s.contains("three")){
-            s = s.replaceAll("three", "3");
-        }
-        if(s.contains("four")){
-            s = s.replaceAll("four", "4");
-        }
-        if(s.contains("five")){
-            s = s.replaceAll("five", "5");
-        }
-        if(s.contains("six")){
-            s = s.replaceAll("six", "6");
-        }
-        if(s.contains("seven")){
-            s = s.replaceAll("seven", "7");
-        }
-        if(s.contains("eight")){
-            s = s.replaceAll("eight", "8");
-        }
-        if(s.contains("nine")){
-            s = s.replaceAll("nine", "9");
+        for(int i = 0; i <= 9; i++){
+            map.put(arr[i], i);
         }
 
-//        System.out.println(s);
+        for(String key : map.keySet()){
+            s = s.replaceAll(key, String.valueOf(map.get(key)));
+        }
+
+        System.out.println(s);
 
         return Integer.parseInt(s);
     }
