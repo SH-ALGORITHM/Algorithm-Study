@@ -117,15 +117,21 @@
 |        |       |              | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)                              | ☑️   |
 |        |       |              | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)                              | ☑️   |
 |        |       |              | [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)                                   | ☑️   |
-|        |       | SQL          | [특정 물고기를 잡은 총 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298518)       | ☑️   |
-|        |       |              | [고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040)           | ☑️   |
-| week09 | 06/25 | 11. 완전탐색  | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)                         | ⬜   |
-|        |       |              | [원 모양으로 되어있는 방 설명](https://www.codetree.ai/ko/trails/complete/curated-cards/challenge-a-room-in-a-circle/description)                             | ⬜   |
-|        |       |              | [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)                              | ⬜   |
-|        |       |              | [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)                              | ⬜   |
-|        |       |              | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)                                   | ⬜   |
-|        |       | SQL          | [식품분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116)       | ⬜   |
-|        |       |              | [대장균들의 자식의 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299305)           | ⬜   |
+|        |       | SQL          | [특정 물고기를 잡은 총 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298518)        | ☑️   |
+|        |       |              | [고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040)            | ☑️   |
+| week09 | 07/02 | 11. 완전탐색  | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)                           | ☑️   |
+|        |       |              | [원 모양으로 되어있는 방 설명](https://www.codetree.ai/ko/trails/complete/curated-cards/challenge-a-room-in-a-circle/description)                             | ☑️   |
+|        |       |              | [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)                            | ☑️   |
+|        |       |              | [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)                                | ☑️   |
+|        |       |              | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)                   | ☑️   |
+|        |       | SQL          | [식품분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116)       | ☑️   |
+|        |       |              | [대장균들의 자식의 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299305)           | ☑️   |
+| week10 | 07/09 | 12. 완전탐색  | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12924)                   | ⬜   |
+|        |       |              | [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)                            | ⬜   |
+|        |       |              | [회문1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14QpAaAAwCFAYi&categoryId=AV14QpAaAAwCFAYi&categoryType=CODE&problemTitle=회문&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)                              | ⬜   |
+|        |       |              | [Permutations](https://leetcode.com/problems/permutations/submissions/2055309720/)                       | ⬜   |
+|        |       | SQL          | [연도별 대장균 크기의 편차 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299310)        | ⬜   |
+|        |       |              | [조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113)      | ⬜   |
 
 </details>
 
