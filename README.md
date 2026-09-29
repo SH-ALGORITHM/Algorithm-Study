@@ -126,12 +126,12 @@
 |        |       |              | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)                   | ☑️   |
 |        |       | SQL          | [식품분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116)       | ☑️   |
 |        |       |              | [대장균들의 자식의 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299305)           | ☑️   |
-| week10 | 07/09 | 12. 완전탐색  | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12924)                   | ⬜   |
-|        |       |              | [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)                            | ⬜   |
-|        |       |              | [회문1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14QpAaAAwCFAYi&categoryId=AV14QpAaAAwCFAYi&categoryType=CODE&problemTitle=회문&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)                              | ⬜   |
-|        |       |              | [Permutations](https://leetcode.com/problems/permutations/submissions/2055309720/)                       | ⬜   |
-|        |       | SQL          | [연도별 대장균 크기의 편차 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299310)        | ⬜   |
-|        |       |              | [조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113)      | ⬜   |
+| week10 | 07/09 | 12. 완전탐색  | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12924)                   | ☑️   |
+|        |       |              | [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)                            | ☑️   |
+|        |       |              | [회문1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14QpAaAAwCFAYi&categoryId=AV14QpAaAAwCFAYi&categoryType=CODE&problemTitle=회문&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)                              | ☑️   |
+|        |       |              | [Permutations](https://leetcode.com/problems/permutations/submissions/2055309720/)                       | ☑️   |
+|        |       | SQL          | [연도별 대장균 크기의 편차 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299310)        | ☑️   |
+|        |       |              | [조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113)      | ☑️   |
 
 </details>
 
